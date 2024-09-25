@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.exe
+C:\Users\User\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.deps.json
+C:\Users\User\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.runtimeconfig.json
+C:\Users\User\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.dll
+C:\Users\User\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.pdb
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfo.cs
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.dll
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\refint\Floreria.dll
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.pdb
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.genruntimeconfig.cache
+C:\Users\User\source\repos\Floreria\Floreria\obj\Debug\net8.0\ref\Floreria.dll
